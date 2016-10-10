@@ -39,6 +39,6 @@
   },
   "eyeglass": {
     "exports": "eyeglass-exports.js",
-    "needs": "^0.7.1"
+    "needs": ">= 0.7.1 < 2.0.0"
   }
 }
